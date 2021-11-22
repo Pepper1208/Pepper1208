@@ -1,5 +1,5 @@
 - 👋 Hello, you. I'm PepperPep1208.
-- 👀 I'm a Minecraft Mod and Add-on developer. My products are mainly been used in Java platform.
+- 👀 I'm a game developer who often using Unity to be my main developing game engine.
 - 🌱 I'm from Hong Kong. Therefore my English isn't very well and you may see A LOT OF grammar mistake in my project. I am very apologize for that.
 - 💞️ Collaborate isn't needed for now, cuz my coding skill isn't very brilliant to collaborate with Pro-coder.
 - 📫 Contact: pepperhujiao1208@gmail.com. Feel free to contact me and I will give reply when I see your email.
